@@ -1,0 +1,38 @@
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+   position: fixed;
+   width: 100%;
+}
+
+.wh {
+  color: rgba(255,255,255,1);
+  font-size: 1.3em;
+  font-variant: small-caps;
+}
+.wb {
+  color: rgba(255,255,255,1);
+}
+.text-sm {
+  text-align: left;
+  color: lightgrey;
+  font-size: 1em;
+}
+.addon-info {
+  margin-top: 1%;
+}
+.text-big {
+  font-size: 2em;
+  text-align: left;
+
+}
+h1 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 10em;
+
+}
+.carousel-caption {
+  top: 30%;
+  bottom: -40%;
+}
